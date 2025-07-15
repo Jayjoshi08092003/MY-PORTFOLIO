@@ -1,2 +1,2 @@
 # MY-PORTFOLIO
-This Repository contains my portfolio website for ML/AI roles.
+This Repository contains my portfolio website for ML/AI researcher roles.

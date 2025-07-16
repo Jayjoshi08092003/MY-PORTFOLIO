@@ -4,6 +4,9 @@ This is the personal portfolio website of Jay Joshi, an AI researcher interested
 
 <img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/7ace432e-73af-42de-b489-9c11265dd63f" />
 
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/961fa402-7ac3-426b-a223-7cb35a28763e" />
+
+
 
 ## 🚀 Key Features
 

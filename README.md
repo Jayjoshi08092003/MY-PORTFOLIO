@@ -16,7 +16,7 @@ This is the personal portfolio website of Jay Joshi, an AI researcher interested
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript,Mongo Db,Express.js,React.js,MERN.
 - **Features:** Theme-switching, animations, responsive design
 
 ## 📁 Structure

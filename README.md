@@ -58,7 +58,7 @@ cd MY-PORTFOLIO/portfolio-backend
 
 ## 🙌 Credits
 
-- Designed and developed by **Jay Joshi**
+- Designed and developed by **Jay Joshi**link:"https://leafy-sundae-c6cc14.netlify.app/"
 - Inspired by both modern web design and the intersection of technology & Ayurveda
 
 ---
